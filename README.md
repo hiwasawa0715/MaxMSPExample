@@ -1,3 +1,3 @@
 # MaxMSPExample
 
-![エビフライトライアングル](http://i.imgur.com/Jjwsc.jpg "サンプル")
+![エビフライトライアングル](https://github.com/hiwasawa0715/MaxMSPExample/blob/master/img/pict1.png "サンプル")
