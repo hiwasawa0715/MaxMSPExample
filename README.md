@@ -1,5 +1,6 @@
 # MaxMSPExample
-
+[youtube](https://youtu.be/whS6AsXxt5w)
+[qiita](https://qiita.com/hiwasawa/items/38026e6fcc4445aec812)
 ![line~サンプル](https://github.com/hiwasawa0715/MaxMSPExample/blob/master/img/pict1.png "サンプル")
 
 lineオブジェクト左ペイン```0,1 5 0 30```
