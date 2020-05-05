@@ -1,7 +1,6 @@
 # MaxMSPExample
 [youtube](https://youtu.be/whS6AsXxt5w)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/whS6AsXxt5w" frameborder="0" allow="accelerometer; autoplay=1; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[![youtube](https://img.youtube.com/vi/whS6AsXxt5w/0.jpg)](https://www.youtube.com/watch?v=whS6AsXxt5w)
 
 [qiita](https://qiita.com/hiwasawa/items/38026e6fcc4445aec812)
 
